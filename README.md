@@ -1,0 +1,2 @@
+# MadhushreeMirji_Django_Project_On_Student_Feedback_Management_System
+ Student Feedback Management System created using Django
